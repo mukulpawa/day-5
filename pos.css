@@ -1,0 +1,15 @@
+/*.relative{
+    position: relative;
+    border: 2px solid green;
+    left: 10px;
+
+}
+*/
+.relative{
+    position: absolute;
+    border: 1px   solid greenyellow  ;
+    left: 10px ;
+    top: 100px;
+    
+
+}
